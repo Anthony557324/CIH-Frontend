@@ -1,7 +1,9 @@
-# cihfrontend
+# CIHfrontend
 
 > A Vue.js project
-author:Anthony557
+
+>author:Anthony557
+
 ## Build Setup
 
 ``` bash
